@@ -1,3 +1,8 @@
-theme: jekyll-theme-minimal
-title: Vinod's homepage
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Vinod's Notes for Future Reference
+description: Welcome to Vinod's notes for Future? As an experienced developer and passionate enthusiast, I'll be sharing my expertise, tips,
+and frustrations so you can avoid them in a variety of topics. Let's unlock the potential of this transformative technology together!
+show_downloads: false
+google_analytics: G-WH6DY3YCY8
